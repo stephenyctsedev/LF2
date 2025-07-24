@@ -1372,7 +1372,7 @@ f>
 f>
 
 <f 265 many_foot
-   pic 13 state 3 wait 1 next 266 dvx 2 centerx 40 mp 75
+   pic 13 state 3 wait 1 next 266 dvx 2 centerx 40 mp 0
    <bp x 42.07571 y 38.70377 bp>
    <w kind 1 x 42 y 51 weaponact 30 cover 1 w>
    <b kind 0 x 23 y 22 w 33 h 63 b>
@@ -1464,7 +1464,7 @@ f>
 f>
 
 <f 280 c_foot
-   pic 170 state 3 wait 1 next 281 centerx 43 mp 75
+   pic 170 state 3 wait 1 next 281 centerx 43 mp 0
    <bp x 50.17886 y 42.53469 bp>
    <w kind 1 x 45 y 51 weaponact 30 cover 1 w>
    <b kind 0 x 29 y 26 w 32 h 58 b>
@@ -1510,7 +1510,7 @@ f>
 f>
 
 <f 286 -
-   pic 176 state 3 wait 1 next 287 dvx 10 dvz 1 centerx 32 centery 90 hit_d 288 hit_j 288 mp -17
+   pic 176 state 3 wait 1 next 287 dvx 10 dvz 1 centerx 32 centery 90 hit_d 288 hit_j 288 mp 0
    <w kind 1 x 42 y 41 weaponact 29 cover 1 w>
    <i kind 0 x 82 y 13 w 14 h 64 dvx 12 fall 70 vrest 7 bdefend 16 injury 45 effect 4 i>
    <i kind 0 x 30 y 18 w 61 h 56 dvx 13 fall 20 vrest 7 bdefend 16 injury 35 i>
@@ -1518,7 +1518,7 @@ f>
 f>
 
 <f 287 -
-   pic 173 state 3 wait 1 next 284 dvx 10 dvz 2 centerx 36 centery 90 hit_d 288 hit_j 288 mp -17
+   pic 173 state 3 wait 1 next 284 dvx 10 dvz 2 centerx 36 centery 90 hit_d 288 hit_j 288 mp 0
    <bp x 39.4073 y 38.39454 bp>
    <w kind 1 x 41 y 41 weaponact 29 cover 1 w>
    <i kind 0 x 57 y 10 w 11 h 70 dvx 12 fall 20 vrest 7 bdefend 16 injury 45 effect 4 i>

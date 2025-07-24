@@ -1177,7 +1177,7 @@ f>
 f>
 
 <f 235 blast
-   pic 135 state 3 wait 1 next 236 centerx 39 mp 75
+   pic 135 state 3 wait 1 next 236 centerx 39 mp 0
    sound mp3/043
    <bp x 44.73333 y 42.43333 bp>
    <w kind 1 x 49.06664 y 54.08132 weaponact 31 cover 1 w>
@@ -1221,7 +1221,7 @@ f>
 f>
 
 <f 240 blast2
-   pic 78 state 3 wait 1 next 241 centerx 55 mp 75
+   pic 78 state 3 wait 1 next 241 centerx 55 mp 0
    sound mp3/043
    <bp x 68.60096 y 39.66698 bp>
    <w kind 1 x 62.06664 y 54.08132 weaponact 31 cover 1 w>
@@ -1262,7 +1262,7 @@ f>
 f>
 
 <f 245 blast3
-   pic 100 state 3 wait 1 next 246 centerx 50 mp 75
+   pic 100 state 3 wait 1 next 246 centerx 50 mp 0
    sound mp3/043
    <bp x 55.94119 y 45.45846 bp>
    <w kind 1 x 52.06664 y 55.08132 weaponact 31 cover 1 w>
@@ -1310,7 +1310,7 @@ f>
 f>
 
 <f 260 jump_sword
-   pic 140 state 3 wait 1 next 261 dvx 5 centerx 34 centery 83 mp 75
+   pic 140 state 3 wait 1 next 261 dvx 5 centerx 34 centery 83 mp 0
    <bp x 58.97059 y 45.64989 bp>
    <w kind 1 x 41 y 57 weaponact 31 cover 1 w>
    <b kind 0 x 18 y 25 w 13 h 60 b>
@@ -1372,7 +1372,7 @@ f>
 f>
 
 <f 268 -
-   pic 147 state 3 wait 1 next 269 dvy -1 centerx 57 centery 83 mp 75
+   pic 147 state 3 wait 1 next 269 dvy -1 centerx 57 centery 83 mp 0
    <bp x 63.65017 y 28.52909 bp>
    <w kind 1 x 64 y 48 weaponact 31 cover 1 w>
    <b kind 0 x 35 y 19 w 42 h 28 b>
@@ -1424,7 +1424,7 @@ f>
 f>
 
 <f 277 jump_sword2
-   pic 151 state 3 wait 1 next 278 dvx 5 centerx 17 mp 75
+   pic 151 state 3 wait 1 next 278 dvx 5 centerx 17 mp 0
    <bp x 36.33414 y 44.4897 bp>
    <w kind 1 x 26 y 53 weaponact 31 cover 1 w>
    <i kind 0 x 5 y 52 w 81 h 33 dvx 6 dvy -17 fall 70 vrest 10 bdefend 60 injury 60 effect 1 i>
@@ -1471,14 +1471,14 @@ f>
 f>
 
 <f 285 jump_sword1
-   pic 140 state 3 wait 1 next 261 dvx 5 centerx 34 centery 83 mp 75
+   pic 140 state 3 wait 1 next 261 dvx 5 centerx 34 centery 83 mp 0
    <bp x 58.97059 y 45.64989 bp>
    <w kind 1 x 41 y 57 weaponact 31 cover 1 w>
    <b kind 0 x 25 y 31 w 37 h 52 b>
 f>
 
 <f 290 dash_sword
-   pic 160 state 301 wait 1 next 291 dvx 3 centerx 30 centery 83 mp 150
+   pic 160 state 301 wait 1 next 291 dvx 3 centerx 30 centery 83 mp 0
    sound mp3/045
    <bp x 54.97059 y 45.42767 bp>
    <w kind 1 x 36 y 57 weaponact 31 cover 1 w>
@@ -1636,7 +1636,7 @@ f>
 f>
 
 <f 310 -
-   pic 168 state 301 wait 1 next 311 centerx 31 centery 83 mp 75
+   pic 168 state 301 wait 1 next 311 centerx 31 centery 83 mp 0
    <w kind 1 x 40 y 57 weaponact 31 cover 1 w>
    <b kind 0 x 21 y 19 w 17 h 63 b>
 f>

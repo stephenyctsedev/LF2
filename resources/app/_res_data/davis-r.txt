@@ -1441,7 +1441,7 @@ f>
 f>
 
 <f 270 many_punch
-   pic 153 state 3 wait 1 next 271 dvx 7 centerx 42 mp 75
+   pic 153 state 3 wait 1 next 271 dvx 7 centerx 42 mp 0
    sound mp3/007
    <bp x 48.30796602715553 y 39.82229395368452 bp>
    <w kind 1 x 42 y 52 weaponact 30 cover 1 w>
@@ -1475,7 +1475,7 @@ f>
 f>
 
 <f 274 -
-   pic 157 state 3 wait 1 next 275 dvx 3 centerx 29 mp 75
+   pic 157 state 3 wait 1 next 275 dvx 3 centerx 29 mp 0
    <bp x 33.784250825706 y 40.17786982275594 bp>
    <w kind 1 x 32 y 48 weaponact 30 cover 1 w>
    <i kind 0 x 54 y 14 w 18 h 64 dvx 12 fall 70 vrest 7 bdefend 16 injury 45 effect 4 i>
@@ -1585,7 +1585,7 @@ f>
 f>
 
 <f 300 singlong
-   pic 170 state 3 wait 1 next 301 dvx 7 dvy -9 centerx 35 centery 81 mp 225
+   pic 170 state 3 wait 1 next 301 dvx 7 dvy -9 centerx 35 centery 81 mp 0
    sound mp3/095
    <bp x 37.1257880669925 y 37.954456219910604 bp>
    <w kind 1 x 36 y 44 weaponact 30 cover 1 w>

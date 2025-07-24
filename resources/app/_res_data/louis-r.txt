@@ -1206,7 +1206,7 @@ f>
 f>
 
 <f 235 blastpush
-   pic 115 state 3 wait 1 next 236 centerx 49 mp 150
+   pic 115 state 3 wait 1 next 236 centerx 49 mp 0
    <bp x 48.52167 y 36.11056 bp>
    <w kind 1 x 43 y 53 weaponact 30 cover 1 w>
    <b kind 0 x 28 y 19 w 35 h 64 b>
@@ -1473,7 +1473,7 @@ f>
 f>
 
 <f 275 r-catch
-   pic 160 state 9 wait 3 next 276 centerx 48 mp 100
+   pic 160 state 9 wait 3 next 276 centerx 48 mp 0
    <bp x 59.83858 y 39.96392 bp>
    <w kind 1 x 53 y 53 weaponact 31 cover 1 w>
    <b kind 0 x 30 y 17 w 47 h 68 b>
@@ -1498,7 +1498,7 @@ f>
 f>
 
 <f 278 -
-   pic 161 state 9 wait 3 next 999 centerx 48 mp 100
+   pic 161 state 9 wait 3 next 999 centerx 48 mp 0
    <bp x 59.83858 y 39.96392 bp>
    <w kind 1 x 53 y 52 weaponact 31 cover 1 w>
    <i kind 3 x 26 y 34 w 43 h 30 vrest 7 catchingact 279 279 caughtact 132 132 i>

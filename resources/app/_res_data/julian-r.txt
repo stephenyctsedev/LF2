@@ -1009,7 +1009,7 @@ f>
 f>
 
 <f 260 ball
-   pic 84 state 3 wait 3 next 261 centerx 47 centery 104 mp 10
+   pic 84 state 3 wait 3 next 261 centerx 47 centery 104 mp 0
    <w kind 1 x 39 y 70 weaponact 31 cover 1 w>
    <b kind 0 x 25 y 16 w 43 h 89 b>
 f>
@@ -1023,13 +1023,13 @@ f>
 f>
 
 <f 262 -
-   pic 86 state 3 wait 1 next 263 centerx 47 centery 104 hit_d 276 hit_j 276 mp -10
+   pic 86 state 3 wait 1 next 263 centerx 47 centery 104 hit_d 276 hit_j 276 mp 0
    <w kind 1 x 39 y 70 weaponact 31 cover 1 w>
    <b kind 0 x 25 y 16 w 43 h 89 b>
 f>
 
 <f 263 -
-   pic 87 state 3 wait 1 next 264 centerx 47 centery 104 mp 10
+   pic 87 state 3 wait 1 next 264 centerx 47 centery 104 mp 0
    <w kind 1 x 39 y 70 weaponact 31 cover 1 w>
    <b kind 0 x 25 y 16 w 43 h 89 b>
 f>
@@ -1049,7 +1049,7 @@ f>
 f>
 
 <f 266 -
-   pic 90 state 3 wait 1 next 267 centerx 47 centery 104 hit_d 276 hit_j 276 mp -10
+   pic 90 state 3 wait 1 next 267 centerx 47 centery 104 hit_d 276 hit_j 276 mp 0
    <w kind 1 x 39 y 70 weaponact 31 cover 1 w>
    <b kind 0 x 25 y 16 w 43 h 89 b>
 f>
@@ -1069,7 +1069,7 @@ f>
 f>
 
 <f 269 -
-   pic 93 state 3 wait 1 next 270 centerx 47 centery 104 hit_d 276 hit_j 276 mp -10
+   pic 93 state 3 wait 1 next 270 centerx 47 centery 104 hit_d 276 hit_j 276 mp 0
    <w kind 1 x 39 y 70 weaponact 31 cover 1 w>
    <b kind 0 x 25 y 16 w 43 h 89 b>
 f>
@@ -1089,7 +1089,7 @@ f>
 f>
 
 <f 272 -
-   pic 101 state 3 wait 1 next 273 centerx 47 centery 104 hit_d 276 hit_j 276 mp -10
+   pic 101 state 3 wait 1 next 273 centerx 47 centery 104 hit_d 276 hit_j 276 mp 0
    <w kind 1 x 39 y 70 weaponact 31 cover 1 w>
    <b kind 0 x 25 y 16 w 43 h 89 b>
 f>
@@ -1109,7 +1109,7 @@ f>
 f>
 
 <f 275 -
-   pic 98 state 3 wait 1 next 276 centerx 47 centery 104 hit_a 263 hit_d 276 hit_j 276 hit_Fa 263 mp -10
+   pic 98 state 3 wait 1 next 276 centerx 47 centery 104 hit_a 263 hit_d 276 hit_j 276 hit_Fa 263 mp 0
    <w kind 1 x 39 y 70 weaponact 31 cover 1 w>
    <b kind 0 x 25 y 16 w 43 h 89 b>
 f>
@@ -1253,7 +1253,7 @@ f>
 f>
 
 <f 310 explosion
-   pic 107 state 3 wait 1 next 311 centerx 45 centery 106 mp 100
+   pic 107 state 3 wait 1 next 311 centerx 45 centery 106 mp 0
    sound mp3/018
    <w kind 1 x 39 y 70 weaponact 31 cover 1 w>
    <b kind 0 x 18 y 14 w 59 h 94 b>

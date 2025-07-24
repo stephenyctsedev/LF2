@@ -484,13 +484,13 @@ f>
 f>
 
 <f 80 jump_attack
-   pic 8 state 3 wait 1 next 81 centerx 23 centery 83 mp 20
+   pic 8 state 3 wait 1 next 81 centerx 23 centery 83 mp 0
    <bp x 37.31797 y 36.1964 bp>
    <b kind 0 x 16 y 10 w 37 h 68 b>
 f>
 
 <f 81 -
-   pic 9 state 3 wait 1 next 82 centerx 21 centery 83 mp 20
+   pic 9 state 3 wait 1 next 82 centerx 21 centery 83 mp 0
    <bp x 35.5446 y 35.9492 bp>
    <b kind 0 x 14 y 11 w 40 h 69 b>
 f>

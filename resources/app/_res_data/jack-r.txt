@@ -1121,28 +1121,28 @@ f>
 f>
 
 <f 240 ball1
-   pic 100 state 3 wait 3 next 241 mp 50
+   pic 100 state 3 wait 3 next 241 mp 0
    <bp x 43.58511 y 39.23333 bp>
    <w kind 1 x 45 y 55 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 241 -
-   pic 101 state 3 wait 3 next 242 mp 50
+   pic 101 state 3 wait 3 next 242 mp 0
    <bp x 42.91844 y 39.23333 bp>
    <w kind 1 x 45 y 55 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 242 -
-   pic 102 state 3 wait 2 next 243 mp 50
+   pic 102 state 3 wait 2 next 243 mp 0
    <bp x 42.30356 y 39.23333 bp>
    <w kind 1 x 45 y 55 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 243 -
-   pic 103 state 3 wait 1 next 244 mp 50
+   pic 103 state 3 wait 1 next 244 mp 0
    sound mp3/047
    <bp x 41.86019 y 39.17129 bp>
    <w kind 1 x 45 y 55 weaponact 30 cover 1 w>
@@ -1150,7 +1150,7 @@ f>
 f>
 
 <f 244 -
-   pic 104 state 3 wait 1 next 245 mp 50
+   pic 104 state 3 wait 1 next 245 mp 0
    <o kind 1 x 85 y 41 oid 216 o>
    <bp x 40.76075 y 39.29317 bp>
    <w kind 1 x 45 y 55 weaponact 30 cover 1 w>
@@ -1165,14 +1165,14 @@ f>
 f>
 
 <f 246 -
-   pic 101 state 3 wait 2 next 247 mp 50
+   pic 101 state 3 wait 2 next 247 mp 0
    <bp x 42.91844 y 39.23333 bp>
    <w kind 1 x 45 y 55 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 247 -
-   pic 100 state 3 wait 2 next 999 mp 50
+   pic 100 state 3 wait 2 next 999 mp 0
    <bp x 43.58511 y 39.23333 bp>
    <w kind 1 x 45 y 55 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
@@ -1187,7 +1187,7 @@ f>
 f>
 
 <f 301 -
-   pic 134 state 3 wait 1 next 302 dvx 1 dvy -5 centerx 35 centery 81 mp 200
+   pic 134 state 3 wait 1 next 302 dvx 1 dvy -5 centerx 35 centery 81 mp 0
    <bp x 45.17091 y 28.36208 bp>
    <w kind 1 x 45 y 43 weaponact 30 cover 1 w>
    <b kind 0 x 20 y 10 w 19 h 74 b>
