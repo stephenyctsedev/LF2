@@ -1366,7 +1366,7 @@ f>
 f>
 
 <f 267 flame
-   pic 170 state 3 wait 2 next 268 centerx 39 mp 150
+   pic 170 state 3 wait 2 next 268 centerx 39 mp 0
    <bp x 47.00304 y 39.99792 bp>
    <w kind 1 x 59.10992 y 52.27757 weaponact 21 w>
    <b kind 0 x 21 y 20 w 37 h 65 b>
@@ -1401,26 +1401,26 @@ f>
 f>
 
 <f 272 -
-   pic 173 state 3 wait 1 next 273 centerx 27 hit_d 283 hit_j 283 mp -8
+   pic 173 state 3 wait 1 next 273 centerx 27 hit_d 283 hit_j 283 mp 0
    <w kind 1 x 20 y 55 weaponact 25 w>
    <b kind 0 x 11 y 21 w 45 h 64 b>
 f>
 
 <f 273 -
-   pic 174 state 3 wait 1 next 274 centerx 27 hit_d 283 hit_j 283 mp -8
+   pic 174 state 3 wait 1 next 274 centerx 27 hit_d 283 hit_j 283 mp 0
    <w kind 1 x 19 y 55 weaponact 25 w>
    <b kind 0 x 11 y 21 w 47 h 65 b>
 f>
 
 <f 274 -
-   pic 173 state 3 wait 1 next 275 centerx 27 hit_d 283 hit_j 283 mp -8
+   pic 173 state 3 wait 1 next 275 centerx 27 hit_d 283 hit_j 283 mp 0
    <o kind 1 x 47 y 41 oid 211 o>
    <w kind 1 x 20 y 55 weaponact 25 w>
    <b kind 0 x 11 y 23 w 47 h 63 b>
 f>
 
 <f 275 -
-   pic 174 state 3 wait 1 next 270 centerx 27 hit_d 283 hit_j 283 mp -8
+   pic 174 state 3 wait 1 next 270 centerx 27 hit_d 283 hit_j 283 mp 0
    <w kind 1 x 19 y 55 weaponact 25 w>
    <b kind 0 x 12 y 23 w 43 h 63 b>
 f>
@@ -1432,7 +1432,7 @@ f>
 f>
 
 <f 285 explosion
-   pic 175 state 3 wait 1 next 286 centerx 48 mp 4300
+   pic 175 state 3 wait 1 next 286 centerx 48 mp 0
    <bp x 48.40086 y 39.35221 bp>
    <w kind 1 x 51 y 57 weaponact 31 cover 1 w>
    <b kind 0 x 27 y 24 w 39 h 60 b>

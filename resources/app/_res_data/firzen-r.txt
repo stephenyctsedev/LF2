@@ -1108,7 +1108,7 @@ f>
 f>
 
 <f 240 disaster
-   pic 83 state 3 wait 1 next 241 mp 100
+   pic 83 state 3 wait 1 next 241 mp 0
    <bp x 44.49777777777778 y 38.39222222222222 bp>
    <w kind 1 x 49 y 54 weaponact 31 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
@@ -1163,7 +1163,7 @@ f>
 f>
 
 <f 249 volcano
-   pic 83 state 3 next 250 mp 00
+   pic 83 state 3 next 250 mp 0
    <bp x 44.49777777777778 y 38.39222222222222 bp>
    <w kind 1 x 49 y 54 weaponact 31 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>

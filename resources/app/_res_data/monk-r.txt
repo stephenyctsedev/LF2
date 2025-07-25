@@ -1099,7 +1099,7 @@ f>
 f>
 
 <f 240 ball
-   pic 8 state 7 wait 2 next 241 centerx 37 mp 100
+   pic 8 state 7 wait 2 next 241 centerx 37 mp 0
    <w kind 1 x 38 y 46 weaponact 30 cover 1 w>
    <b kind 0 x 17 y 11 w 39 h 72 b>
 f>

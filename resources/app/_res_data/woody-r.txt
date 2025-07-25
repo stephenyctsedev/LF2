@@ -1224,7 +1224,7 @@ f>
 f>
 
 <f 235 ball1
-   pic 140 state 3 wait 1 next 236 centerx 43 mp 125
+   pic 140 state 3 wait 1 next 236 centerx 43 mp 0
    <bp x 43.20125 y 39.32814 bp>
    <w kind 1 x 38 y 51 weaponact 29 cover 1 w>
    <b kind 0 x 31 y 17 w 27 h 68 b>

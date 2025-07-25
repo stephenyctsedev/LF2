@@ -1183,7 +1183,7 @@ f>
 f>
 
 <f 235 ball1
-   pic 140 state 3 wait 1 next 236 centerx 45 mp 100
+   pic 140 state 3 wait 1 next 236 centerx 45 mp 0
    sound mp3/064
    <bp x 41.81638 y 39.77083 bp>
    <w kind 1 x 45 y 51 weaponact 30 cover 1 w>

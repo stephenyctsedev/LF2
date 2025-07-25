@@ -1188,7 +1188,7 @@ f>
 f>
 
 <f 235 ball1
-   pic 140 state 3 wait 1 next 236 centerx 46 mp 40
+   pic 140 state 3 wait 1 next 236 centerx 46 mp 0
    <bp x 46.54778 y 38.35167 bp>
    <w kind 1 x 39 y 51 weaponact 29 cover 1 w>
    <b kind 0 x 31 y 17 w 27 h 68 b>
@@ -1239,7 +1239,7 @@ f>
 f>
 
 <f 242 ball2
-   pic 146 state 3 wait 1 next 243 centerx 46 mp 40
+   pic 146 state 3 wait 1 next 243 centerx 46 mp 0
    <bp x 54.71015 y 42.52206 bp>
    <w kind 1 x 49 y 55 weaponact 30 cover 1 w>
    <b kind 0 x 36 y 25 w 39 h 58 b>
@@ -1284,7 +1284,7 @@ f>
 f>
 
 <f 251 ball34
-   pic 151 state 3 wait 1 next 252 centerx 46 mp 70
+   pic 151 state 3 wait 1 next 252 centerx 46 mp 0
    <bp x 52.82608 y 39.35106 bp>
    <w kind 1 x 40 y 51 weaponact 29 cover 1 w>
    <b kind 0 x 37 y 20 w 30 h 64 b>
@@ -1547,7 +1547,7 @@ f>
 f>
 
 <f 295 chase_ball
-   pic 181 state 3 wait 2 next 296 centerx 29 mp 100
+   pic 181 state 3 wait 2 next 296 centerx 29 mp 0
    <bp x 36.16230459765507 y 40.507635183882385 bp>
    <w kind 1 x 33 y 51 weaponact 30 cover 1 w>
    <b kind 0 x 17 y 25 w 36 h 60 b>
@@ -1599,4 +1599,3 @@ f>
    pic 0
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
-

@@ -1143,7 +1143,7 @@ f>
 f>
 
 <f 240 run
-   pic 37 state 3 wait 4 next 241 dvx 2 dvz 2 centerx 50 hit_d 245 hit_j 245 mp 50
+   pic 37 state 3 wait 4 next 241 dvx 2 dvz 2 centerx 50 hit_d 245 hit_j 245 mp 0
    <bp x 38.56369 y 28.32624 bp>
    <w kind 1 x 56.30865 y 31.88005 weaponact 35 w>
    <b kind 0 x 24 y 16 w 27 h 65 b>

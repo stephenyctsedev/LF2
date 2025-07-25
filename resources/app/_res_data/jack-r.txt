@@ -1179,7 +1179,7 @@ f>
 f>
 
 <f 300 singlong
-   pic 134 state 3 wait 1 next 301 centerx 35 centery 81 mp 125
+   pic 134 state 3 wait 1 next 301 centerx 35 centery 81 mp 0
    sound mp3/044
    <bp x 45.17091 y 28.36208 bp>
    <w kind 1 x 45 y 43 weaponact 30 cover 1 w>

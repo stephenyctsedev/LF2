@@ -416,7 +416,7 @@ f>
 f>
 
 <f 60 -
-   pic 10 state 3 wait 3 next 61 centerx 45 mp 15
+   pic 10 state 3 wait 3 next 61 centerx 45 mp 0
    <bp x 48.75061461791846 y 38.42940829813039 bp>
    <i kind 2 x 26 y 62 w 37 h 24 vrest 1 i>
    <b kind 0 x 28 y 20 w 31 h 63 b>
@@ -443,13 +443,13 @@ f>
 f>
 
 <f 64 -
-   pic 14 state 3 wait 2 next 66 centerx 47 mp 15
+   pic 14 state 3 wait 2 next 66 centerx 47 mp 0
    <bp x 51.18 y 38.59111111111111 bp>
    <b kind 0 x 29 y 17 w 30 h 66 b>
 f>
 
 <f 65 -
-   pic 10 state 3 wait 3 next 61 centerx 45 mp 15
+   pic 10 state 3 wait 3 next 61 centerx 45 mp 0
    <bp x 48.75061461791846 y 38.42940829813039 bp>
    <i kind 2 x 26 y 62 w 37 h 24 vrest 1 i>
    <b kind 0 x 27 y 23 w 32 h 60 b>
@@ -469,7 +469,7 @@ f>
 f>
 
 <f 68 -
-   pic 14 state 3 wait 2 next 69 centerx 47 mp 15
+   pic 14 state 3 wait 2 next 69 centerx 47 mp 0
    <bp x 51.18 y 38.59111111111111 bp>
    <b kind 0 x 32 y 20 w 32 h 62 b>
 f>
@@ -1261,7 +1261,7 @@ f>
 f>
 
 <f 235 transform
-   pic 90 state 9 wait 3 next 236 mp 150
+   pic 90 state 9 wait 3 next 236 mp 0
    sound mp3/063
    <bp x 53.5874919036096 y 40.172935507380345 bp>
    <c kind 1 x 66 y 44 vaction 130 hurtable 1 c>
@@ -1479,7 +1479,7 @@ f>
 
 <f 271 -
    pic 79 state 15 wait 1 next 999 centerx 46
-   <o kind 1 x 45 y 84 oid 5 facing 20 o>
+   <o kind 1 x 45 y 84 oid 5 facing 100 o>
    <bp x 48.26 y 38.19777777777778 bp>
    <w kind 1 x 51 y 54 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
