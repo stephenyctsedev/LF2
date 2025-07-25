@@ -1479,7 +1479,7 @@ f>
 
 <f 271 -
    pic 79 state 15 wait 1 next 999 centerx 46
-   <o kind 1 x 45 y 84 oid 5 facing 100 o>
+   <o kind 1 x 45 y 84 oid 5 facing 300 o>
    <bp x 48.26 y 38.19777777777778 bp>
    <w kind 1 x 51 y 54 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
