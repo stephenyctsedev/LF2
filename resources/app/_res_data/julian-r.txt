@@ -499,7 +499,7 @@ f>
 f>
 
 <f 106 -
-   pic 78 state 6 wait 1 next 103 dvz 3 centerx 39 mp 25
+   pic 78 state 6 wait 1 next 103 dvz 3 centerx 39 mp 0
    sound mp3/030
    <w kind 1 x 33 y 66 weaponact 31 cover 1 w>
    <b kind 0 x 13 y 15 w 52 h 94 b>
@@ -1139,7 +1139,7 @@ f>
 f>
 
 <f 280 big_ball
-   pic 94 state 3 wait 3 next 281 centerx 43 mp 125
+   pic 94 state 3 wait 3 next 281 centerx 43 mp 0
    sound mp3/018
    <w kind 1 x 39 y 68 weaponact 31 cover 1 w>
    <b kind 0 x 25 y 16 w 43 h 89 b>
