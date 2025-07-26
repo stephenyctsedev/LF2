@@ -1168,7 +1168,7 @@ f>
 f>
 
 <f 241 -
-   pic 113 state 3 wait 2 next 242 dvx 9 dvz 2 centerx 50 hit_d 245 hit_j 245 mp -27
+   pic 113 state 3 wait 2 next 242 dvx 9 dvz 2 centerx 50 hit_d 245 hit_j 245 mp 0
    <bp x 62.2051 y 36.19338 bp>
    <w kind 1 x 29.07324 y 42.8824 weaponact 24 w>
    <i kind 0 x 32 y 15 w 39 h 67 dvx 16 fall 70 vrest 20 bdefend 60 injury 80 i>
@@ -1176,7 +1176,7 @@ f>
 f>
 
 <f 242 -
-   pic 103 state 3 wait 2 next 243 dvx 9 dvz 2 centerx 50 hit_d 245 hit_j 245 mp -27
+   pic 103 state 3 wait 2 next 243 dvx 9 dvz 2 centerx 50 hit_d 245 hit_j 245 mp 0
    sound mp3/003
    <bp x 65.98288 y 35.08227 bp>
    <w kind 1 x 32.82658 y 41.77129 weaponact 24 w>
@@ -1185,7 +1185,7 @@ f>
 f>
 
 <f 243 -
-   pic 104 state 3 wait 2 next 244 dvx 9 dvz 2 centerx 53 hit_d 245 hit_j 245 mp -27
+   pic 104 state 3 wait 2 next 244 dvx 9 dvz 2 centerx 53 hit_d 245 hit_j 245 mp 0
    <bp x 61.64955 y 37.30449 bp>
    <w kind 1 x 28.40658 y 43.99351 weaponact 24 w>
    <i kind 0 x 33 y 12 w 40 h 73 dvx 16 fall 70 vrest 20 bdefend 60 injury 80 i>
@@ -1193,7 +1193,7 @@ f>
 f>
 
 <f 244 -
-   pic 103 state 3 wait 2 next 241 dvx 9 dvz 2 centerx 50 hit_d 245 hit_j 245 mp -27
+   pic 103 state 3 wait 2 next 241 dvx 9 dvz 2 centerx 50 hit_d 245 hit_j 245 mp 0
    sound mp3/004
    <bp x 65.98288 y 35.08227 bp>
    <w kind 1 x 32.82658 y 41.77129 weaponact 24 w>

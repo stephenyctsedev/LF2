@@ -1220,7 +1220,7 @@ f>
 f>
 
 <f 235 blastpush
-   pic 135 state 3 wait 1 next 236 centerx 48 mp 150
+   pic 135 state 3 wait 1 next 236 centerx 48 mp 0
    <bp x 43.09785 y 42.16773 bp>
    <w kind 1 x 44 y 53 weaponact 30 cover 1 w>
    <b kind 0 x 28 y 19 w 35 h 64 b>
@@ -1288,7 +1288,7 @@ f>
 f>
 
 <f 245 blastpush
-   pic 89 state 3 wait 2 next 237 centerx 48 mp 150
+   pic 89 state 3 wait 2 next 237 centerx 48 mp 0
    sound mp3/096
    <bp x 55.38282 y 39.46234 bp>
    <w kind 1 x 47 y 53 weaponact 30 cover 1 w>
@@ -1432,14 +1432,14 @@ f>
 f>
 
 <f 280 5_arrow
-   pic 150 state 3 wait 1 next 281 centerx 41 centery 83 mp 150
+   pic 150 state 3 wait 1 next 281 centerx 41 centery 83 mp 0
    <bp x 42.63389 y 36.21944 bp>
    <w kind 1 x 44 y 53 weaponact 30 cover 1 w>
    <b kind 0 x 31 y 17 w 27 h 68 b>
 f>
 
 <f 281 -
-   pic 151 state 3 wait 1 next 282 centerx 32 centery 83 mp 100
+   pic 151 state 3 wait 1 next 282 centerx 32 centery 83 mp 0
    <bp x 34.41167 y 36.44167 bp>
    <w kind 1 x 34 y 53 weaponact 30 cover 1 w>
    <b kind 0 x 31 y 17 w 27 h 68 b>

@@ -1320,7 +1320,7 @@ f>
 f>
 
 <f 250 fly_crash
-   pic 152 state 3 wait 1 next 251 centerx 37 mp 200
+   pic 152 state 3 wait 1 next 251 centerx 37 mp 0
    <w kind 1 x 39 y 56 weaponact 31 cover 1 w>
    <b kind 0 x 18 y 27 w 40 h 55 b>
 f>
@@ -1332,7 +1332,7 @@ f>
 f>
 
 <f 252 -
-   pic 154 state 3 wait 1 next 253 centerx 37 mp 200
+   pic 154 state 3 wait 1 next 253 centerx 37 mp 0
    sound mp3/055
    <w kind 1 x 43 y 56 weaponact 31 cover 1 w>
    <b kind 0 x 19 y 34 w 48 h 50 b>
@@ -1374,7 +1374,7 @@ f>
 f>
 
 <f 260 cleg
-   pic 160 state 3 wait 1 next 261 dvx 8 centerx 43 mp 50
+   pic 160 state 3 wait 1 next 261 dvx 8 centerx 43 mp 0
    <bp x 52.64381 y 62.7369 bp>
    <w kind 1 x 42 y 52 weaponact 30 cover 1 w>
    <b kind 0 x 30 y 23 w 34 h 58 b>
@@ -1473,7 +1473,7 @@ f>
 f>
 
 <f 275 teleport
-   pic 171 state 15 wait 1 next 276 dvx 550 dvy 550 dvz 550 mp 50
+   pic 171 state 15 wait 1 next 276 dvx 550 dvy 550 dvz 550 mp 0
    sound mp3/078
    <bp x 42.72964 y 37.81912 bp>
    <w kind 1 x 29.00055 y 54.71763 weaponact 35 w>
@@ -1553,7 +1553,7 @@ f>
 f>
 
 <f 290 teleport
-   pic 171 state 15 wait 1 next 291 dvx 550 dvy 550 dvz 550 mp 50
+   pic 171 state 15 wait 1 next 291 dvx 550 dvy 550 dvz 550 mp 0
    sound mp3/078
    <bp x 42.72964 y 37.81912 bp>
    <w kind 1 x 29.00055 y 54.71763 weaponact 35 w>

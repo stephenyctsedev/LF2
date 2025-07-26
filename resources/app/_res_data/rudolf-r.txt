@@ -1360,7 +1360,7 @@ f>
 f>
 
 <f 250 disappear
-   pic 85 state 15 wait 3 next 251 centerx 46 mp 350
+   pic 85 state 15 wait 3 next 251 centerx 46 mp 0
    <bp x 48.26 y 38.19777777777778 bp>
    <w kind 1 x 51 y 54 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
@@ -1418,7 +1418,7 @@ f>
 f>
 
 <f 260 +man
-   pic 85 state 15 wait 3 next 261 centerx 46 mp 350
+   pic 85 state 15 wait 3 next 261 centerx 46 mp 0
    <bp x 48.26 y 38.19777777777778 bp>
    <w kind 1 x 51 y 54 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
@@ -1573,7 +1573,7 @@ f>
 f>
 
 <f 285 punch
-   pic 10 state 3 wait 3 next 286 centerx 45 mp 100
+   pic 10 state 3 wait 3 next 286 centerx 45 mp 0
    <bp x 48.75061461791846 y 38.42940829813039 bp>
    <w kind 1 x 51 y 56 weaponact 31 cover 1 w>
    <b kind 0 x 28 y 20 w 31 h 63 b>

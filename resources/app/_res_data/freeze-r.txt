@@ -1244,7 +1244,7 @@ f>
 f>
 
 <f 245 Down_punch
-   pic 78 state 3 wait 1 next 246 mp 150
+   pic 78 state 3 wait 1 next 246 mp 0
    <bp x 38.64097 y 39.75444 bp>
    <w kind 1 x 40 y 53 weaponact 30 cover 1 w>
    <b kind 0 x 29 y 19 w 31 h 64 b>
@@ -1303,7 +1303,7 @@ f>
 f>
 
 <f 260 Whirlwind
-   pic 150 state 3 wait 1 next 261 centerx 40 centery 83 mp 300
+   pic 150 state 3 wait 1 next 261 centerx 40 centery 83 mp 0
    <bp x 43.66662 y 37.3333 bp>
    <w kind 1 x 40 y 53 weaponact 30 cover 1 w>
    <b kind 0 x 29 y 19 w 31 h 64 b>
@@ -1367,7 +1367,7 @@ f>
 f>
 
 <f 270 Sword
-   pic 160 state 3 wait 1 next 271 centerx 57 mp 150
+   pic 160 state 3 wait 1 next 271 centerx 57 mp 0
    sound mp3/074
    <bp x 60.13029 y 39.65666 bp>
    <w kind 3 x 45 y 48 weaponact 35 w>
