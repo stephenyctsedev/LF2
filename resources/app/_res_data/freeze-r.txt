@@ -5,6 +5,24 @@ small sys/freeze_s_x3
 file(0-69) sys/freeze-r_0 w 90 h 90 row 10 col 7
 file(70-139) sys/freeze-r_1 w 90 h 90 row 10 col 7
 file(140-169) sys/freeze-r_2 w 90 h 90 row 10 col 3
+walking_frame_rate 3
+walking_speed 5.000000
+walking_speedz 2.500000
+running_frame_rate 3
+running_speed 9.300000
+running_speedz 1.560000
+heavy_walking_speed 3.700000
+heavy_walking_speedz 1.850000
+heavy_running_speed 6.200000
+heavy_running_speedz 1.000000
+jump_height -16.299999
+jump_distance 10.000000
+jump_distancez 3.750000
+dash_height -10.000000
+dash_distance 18.000000
+dash_distancez 5.000000
+rowing_height -2.000000
+rowing_distance 5.000000
 limb_head sys/limb_freeze_head 1000 1000 5 7 0 31
 limb_chest sys/limb_freeze_chest 1000 1000 5 5 0 30
 limb_chest_u sys/limb_freeze_cape 1000 1000 5 5 0 50

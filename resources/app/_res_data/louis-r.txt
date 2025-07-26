@@ -5,6 +5,24 @@ small sys/louis_s_x3
 file(0-69) sys/louis-r_0 w 90 h 90 row 10 col 7
 file(70-139) sys/louis-r_1 w 90 h 90 row 10 col 7
 file(140-189) sys/louis-r_2 w 90 h 90 row 10 col 5
+walking_frame_rate 3
+walking_speed 5.000000
+walking_speedz 2.500000
+running_frame_rate 3
+running_speed 9.000000
+running_speedz 1.540000
+heavy_walking_speed 3.700000
+heavy_walking_speedz 1.850000
+heavy_running_speed 6.200000
+heavy_running_speedz 1.000000
+jump_height -18.699999
+jump_distance 10.000000
+jump_distancez 3.750000
+dash_height -13.800000
+dash_distance 17.500000
+dash_distancez 5.000000
+rowing_height -2.000000
+rowing_distance 5.000000
 limb_head sys/limb_louis_head 1000 1000 5 7 0 34
 limb_chest sys/limb_louis_chest 1000 1000 5 9 0 45
 limb_chest_c sys/limb_louis_chest_cover 1000 1000 5 9 0 45

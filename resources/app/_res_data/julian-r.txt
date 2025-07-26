@@ -5,6 +5,24 @@ small sys/julian_s_x3
 file(0-49) sys/julian-r_0 w 90 h 112 row 10 col 5
 file(50-63) sys/julian-r_1 w 123 h 112 row 7 col 2
 file(64-123) sys/julian-r_2 w 90 h 112 row 10 col 6
+walking_frame_rate 3
+walking_speed 5.800000
+walking_speedz 2.400000
+running_frame_rate 3
+running_speed 12.000000
+running_speedz 1.500000
+heavy_walking_speed 5.200000
+heavy_walking_speedz 2.100000
+heavy_running_speed 10.300000
+heavy_running_speedz 1.300000
+jump_height -17.299999
+jump_distance 11.000000
+jump_distancez 3.800000
+dash_height -11.000000
+dash_distance 19.000000
+dash_distancez 5.000000
+rowing_height -2.000000
+rowing_distance 5.000000
 limb_head sys/limb_julian_head 1000 1000 5 9 0 45
 limb_chest sys/limb_julian_chest 1000 1000 5 5 0 45
 limb_chest_c sys/limb_julian_chest_cover 1000 1000 5 5 0 45

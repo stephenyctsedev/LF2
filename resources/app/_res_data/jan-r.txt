@@ -6,6 +6,24 @@ file(0-69) sys/jan-r_0 w 90 h 90 row 10 col 7
 file(70-139) sys/jan-r_1 w 90 h 90 row 10 col 7
 file(140-209) sys/jan-r_0b w 90 h 90 row 10 col 7
 file(210-279) sys/jan-r_1b w 90 h 90 row 10 col 7
+walking_frame_rate 3
+walking_speed 5.200000
+walking_speedz 2.600000
+running_frame_rate 3
+running_speed 11.900000
+running_speedz 1.800000
+heavy_walking_speed 2.700000
+heavy_walking_speedz 1.350000
+heavy_running_speed 4.500000
+heavy_running_speedz 0.720000
+jump_height -16.299999
+jump_distance 10.000000
+jump_distancez 3.750000
+dash_height -10.000000
+dash_distance 18.000000
+dash_distancez 5.000000
+rowing_height -2.000000
+rowing_distance 5.000000
 limb_head sys/limb_jan_head__a 1000 1000 5 5 0 23
 limb_chest sys/limb_jan_chest__a 1000 1000 5 5 0 13
 limb_hip sys/limb_jan_chest__a 1000 1000 5 5 20 15

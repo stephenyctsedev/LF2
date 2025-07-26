@@ -6,6 +6,24 @@ file(0-69) sys/mark-r_0 w 90 h 90 row 10 col 7
 file(70-139) sys/mark-r_1 w 90 h 90 row 10 col 7
 file(140-209) sys/mark-r_0b w 90 h 90 row 10 col 7
 file(210-279) sys/mark-r_1b w 90 h 90 row 10 col 7
+walking_frame_rate 3
+walking_speed 4.400000
+walking_speedz 2.200000
+running_frame_rate 3
+running_speed 9.000000
+running_speedz 1.400000
+heavy_walking_speed 4.200000
+heavy_walking_speedz 2.100000
+heavy_running_speed 8.500000
+heavy_running_speedz 1.300000
+jump_height -13.299999
+jump_distance 7.000000
+jump_distancez 2.700000
+dash_height -10.000000
+dash_distance 13.000000
+dash_distancez 3.500000
+rowing_height -2.000000
+rowing_distance 5.000000
 limb_head sys/limb_mark_head__a 1000 1000 5 5 0 23
 limb_chest sys/limb_mark_chest__a 1000 1000 5 5 0 17
 limb_hip sys/limb_mark_chest__a 1000 1000 5 5 20 5

@@ -7,6 +7,24 @@ file(70-139) sys/louisEX-r_1 w 90 h 90 row 10 col 7
 file(140-209) sys/louisEX-r_2 w 90 h 90 row 10 col 7
 file(210-251) sys/louisEX-r_3 w 133 h 90 row 6 col 7
 file(252-252) sys/louisEX-r_4 w 90 h 140 row 1 col 1
+walking_frame_rate 3
+walking_speed 6.200000
+walking_speedz 2.600000
+running_frame_rate 3
+running_speed 14.000000
+running_speedz 1.700000
+heavy_walking_speed 5.000000
+heavy_walking_speedz 2.500000
+heavy_running_speed 12.000000
+heavy_running_speedz 1.600000
+jump_height -18.699999
+jump_distance 14.000000
+jump_distancez 3.750000
+dash_height -13.800000
+dash_distance 20.000000
+dash_distancez 5.000000
+rowing_height -2.000000
+rowing_distance 6.000000
 limb_head sys/limb_louisEX_head 1000 1000 5 7 0 34
 limb_chest sys/limb_louisEX_chest 1000 1000 5 9 0 45
 limb_hip sys/limb_louisEX_hip 1000 1000 5 7 0 35

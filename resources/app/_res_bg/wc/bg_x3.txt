@@ -8,7 +8,7 @@ layer:
 layer_end
 layer: 
   _res_bg/wc/plane_x3
-  transparency: 0  width: 810  x: 20  y: 245 csound: mp3/plane cc: 600 c1: 0 c2: 260 csx: 2.432 csy: -.83196 // (517 - 96)/150  (37-245)/150
+  transparency: 0  width: 805  x: -80  y: 245 csound: mp3/plane cc: 600 c1: 0 c2: 260 csx: 2.632 csy: -.83196 // (517 - 96)/150  (37-245)/150
 layer_end
 layer: 
   _res_bg/wc/building2_x3
