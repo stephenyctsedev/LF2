@@ -421,6 +421,7 @@ f>
    pic 11 state 3 wait 2 next 999 centerx 40
    sound mp3/007
    <bp x 57.61162 y 41.23492 bp>
+   <o kind 1 x 85 y 51 oid 209 facing 200 o>
    <i kind 0 x 49 y 36 w 35 h 22 dvx 2 bdefend 16 injury 20 effect 1 i>
    <b kind 0 x 30 y 16 w 35 h 69 b>
 f>
@@ -436,6 +437,7 @@ f>
    pic 13 state 3 wait 3 next 999 centerx 30
    sound mp3/007
    <bp x 47.61162 y 41.23492 bp>
+   <o kind 1 x 85 y 51 oid 209 facing 201 o>
    <i kind 0 x 48 y 42 w 31 h 19 dvx 2 bdefend 16 injury 20 effect 1 i>
    <b kind 0 x 30 y 17 w 37 h 69 b>
 f>
@@ -1205,7 +1207,7 @@ f>
 
 <f 238 -
    pic 143 state 3 wait 1 next 239 dvx 3 centerx 42
-   <o kind 1 x 85 y 51 oid 209 o>
+   <o kind 1 x 85 y 51 oid 209 facing 200 o>
    <bp x 64.01354 y 49.2574 bp>
    <w kind 1 x 48 y 51 weaponact 31 cover 1 w>
    <b kind 0 x 31 y 17 w 27 h 68 b>
@@ -1214,6 +1216,7 @@ f>
 <f 239 -
    pic 144 state 3 wait 2 next 240 dvx 1 centerx 42
    <bp x 65.83229 y 50.45941 bp>
+   <o kind 1 x 85 y 51 oid 209 facing 201 o>
    <w kind 1 x 49 y 52 weaponact 31 cover 1 w>
    <b kind 0 x 30 y 16 w 35 h 67 b>
 f>
@@ -1264,7 +1267,7 @@ f>
 
 <f 250 -
    pic 115 state 3 wait 2 next 251 dvx 1 centerx 37
-   <o kind 1 x 110 y 82 action 100 oid 212 o>
+   <o kind 1 x 110 y 82 action 100 oid 212 facing 100 o>
    <bp x 57.41527 y 60.03103 bp>
    <w kind 1 x 40 y 53 weaponact 30 cover 1 w>
    <b kind 0 x 29 y 19 w 31 h 64 b>
@@ -1285,7 +1288,7 @@ f>
 f>
 
 <f 260 Whirlwind
-   pic 150 state 3 wait 1 next 261 centerx 40 centery 83 mp 0
+   pic 150 state 3 wait 1 next 261 centerx 40 centery 83 mp -10000
    <bp x 43.66662 y 37.3333 bp>
    <w kind 1 x 40 y 53 weaponact 30 cover 1 w>
    <b kind 0 x 29 y 19 w 31 h 64 b>
@@ -1321,7 +1324,7 @@ f>
 
 <f 265 -
    pic 155 state 3 wait 2 next 266 centerx 38 centery 76
-   <o kind 1 x 38 y 76 action 150 oid 212 facing 1 o>
+   <o kind 1 x 38 y 76 action 150 oid 212 facing 101 o>
    <bp x 19.74983 y 37.44544 bp>
    <w kind 1 x 35 y 48 weaponact 30 cover 1 w>
    <b kind 0 x 29 y 19 w 31 h 64 b>
@@ -1364,6 +1367,7 @@ f>
 
 <f 272 -
    pic 162 state 3 wait 1 next 273 centerx 57
+   <o kind 1 x 110 y 82 action 100 oid 212 facing 100 o>
    <bp x 58.20848 y 38.46395 bp>
    <b kind 0 x 40 y 14 w 32 h 72 b>
 f>
