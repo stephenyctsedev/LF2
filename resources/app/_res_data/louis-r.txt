@@ -532,7 +532,7 @@ f>
 f>
 
 <f 85 run_attack
-   pic 100 state 3 wait 1 next 86 dvx 6 centerx 46 mp 50
+   pic 100 state 3 wait 1 next 86 dvx 6 centerx 46 mp 0
    sound mp3/031
    <bp x 47.49722 y 39.30111 bp>
    <b kind 0 x 28 y 14 w 38 h 71 b>
@@ -567,7 +567,7 @@ f>
 f>
 
 <f 90 dash_attack
-   pic 132 state 15 wait 1 next 91 dvx -1 dvy -1 centerx 43 centery 78 mp 75
+   pic 132 state 15 wait 1 next 91 dvx -1 dvy -1 centerx 43 centery 78 mp 0
    sound mp3/031
    <bp x 42.9859 y 35.54138 bp>
    <b kind 0 x 24 y 13 w 27 h 61 b>
@@ -1311,7 +1311,7 @@ f>
 f>
 
 <f 247 -
-   pic 142 state 3 wait 1 next 248 dvx 2 centerx 28 centery 86 mp 50
+   pic 142 state 3 wait 1 next 248 dvx 2 centerx 28 centery 86 mp 0
    sound mp3/003
    <w kind 1 x 41 y 52 weaponact 31 cover 1 w>
    <b kind 0 x 29 y 26 w 44 h 54 b>
@@ -1398,7 +1398,7 @@ f>
 f>
 
 <f 260 c-throw
-   pic 150 state 9 wait 2 next 261 mp 75
+   pic 150 state 9 wait 2 next 261 mp 0
    <bp x 52.81655 y 40.43405 bp>
    <c kind 1 x 80 y 51 cover 10 vaction 134 dircontrol -1 c>
    <w kind 1 x 42 y 51 weaponact 30 cover 1 w>
@@ -1407,7 +1407,7 @@ f>
 f>
 
 <f 261 -
-   pic 151 state 9 wait 2 next 262 dvx 1 mp 75
+   pic 151 state 9 wait 2 next 262 dvx 1 mp 0
    <bp x 37.42615 y 41.35879 bp>
    <c kind 1 x 66 y 61 injury -20 cover 11 vaction 136 c>
    <w kind 1 x 36 y 50 weaponact 29 cover 1 w>

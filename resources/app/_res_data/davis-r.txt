@@ -1269,7 +1269,7 @@ f>
 f>
 
 <f 240 ball1
-   pic 140 state 3 wait 1 next 241 mp 40
+   pic 140 state 3 wait 1 next 241 mp 0
    <bp x 44.44776570048309 y 39.2731884057971 bp>
    <w kind 1 x 45 y 55 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
@@ -1320,7 +1320,7 @@ f>
 f>
 
 <f 247 ball2
-   pic 146 state 3 wait 1 next 248 mp 40
+   pic 146 state 3 wait 1 next 248 mp 0
    <bp x 48.39830917874396 y 39.66817632850241 bp>
    <w kind 1 x 45 y 55 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
@@ -1364,7 +1364,7 @@ f>
 f>
 
 <f 253 ball3
-   pic 145 state 3 wait 1 next 254 mp 40
+   pic 145 state 3 wait 1 next 254 mp 0
    <bp x 50.427406740027536 y 40.141547518390965 bp>
    <w kind 1 x 46 y 55 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
@@ -1408,7 +1408,7 @@ f>
 f>
 
 <f 259 ball4
-   pic 150 state 3 wait 1 next 260 mp 40
+   pic 150 state 3 wait 1 next 260 mp 0
    <bp x 50.689457192038574 y 40.099135943488776 bp>
    <w kind 1 x 46 y 55 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
@@ -1445,7 +1445,7 @@ f>
 f>
 
 <f 264 -
-   pic 145 state 3 wait 1 next 242 mp 40
+   pic 145 state 3 wait 1 next 242 mp 0
    <bp x 50.49001 y 40.10802 bp>
    <w kind 1 x 45 y 55 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
@@ -1565,7 +1565,7 @@ f>
 f>
 
 <f 290 jumphit
-   pic 160 state 15 wait 1 next 291 dvx 8 dvy -8 centerx 37 centery 80 mp 25
+   pic 160 state 15 wait 1 next 291 dvx 8 dvy -8 centerx 37 centery 80 mp 0
    sound mp3/017
    <bp x 45.35048 y 36.12503 bp>
    <w kind 1 x 40 y 42 weaponact 30 cover 1 w>
@@ -1663,4 +1663,3 @@ f>
    pic 0
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
-

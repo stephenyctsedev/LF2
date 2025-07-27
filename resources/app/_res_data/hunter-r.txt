@@ -426,7 +426,7 @@ f>
 f>
 
 <f 60 punch
-   pic 10 state 3 wait 1 next 61 centerx 39 mp 12
+   pic 10 state 3 wait 1 next 61 centerx 39 mp 0
    <bp x 39.64444 y 39.01111 bp>
    <i kind 2 x 23 y 65 w 44 h 18 vrest 1 i>
    <b kind 0 x 24 y 15 w 33 h 69 b>
@@ -461,7 +461,7 @@ f>
 f>
 
 <f 65 -
-   pic 10 state 3 wait 1 next 61 centerx 39 mp 12
+   pic 10 state 3 wait 1 next 61 centerx 39 mp 0
    <bp x 39.64444 y 39.01111 bp>
    <i kind 2 x 23 y 65 w 44 h 18 vrest 1 i>
    <b kind 0 x 23 y 12 w 38 h 72 b>

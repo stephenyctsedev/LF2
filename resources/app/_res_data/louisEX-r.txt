@@ -486,7 +486,7 @@ f>
 f>
 
 <f 85 run_attack
-   pic 10 state 3 wait 2 next 86 dvx 6 centerx 43 centery 83 mp 30
+   pic 10 state 3 wait 2 next 86 dvx 6 centerx 43 centery 83 mp 0
    sound mp3/031
    <bp x 44.49722 y 38.74556 bp>
    <w kind 0 x 34.99687 y 45.09879 w>
@@ -520,7 +520,7 @@ f>
 f>
 
 <f 90 dash_attack
-   pic 132 state 15 wait 2 next 92 dvx -2 centerx 35 centery 78 mp 40
+   pic 132 state 15 wait 2 next 92 dvx -2 centerx 35 centery 78 mp 0
    sound mp3/031
    <bp x 33.9859 y 37.43027 bp>
    <w kind 0 x 24.13589 y 43.88767 w>

@@ -1170,7 +1170,7 @@ f>
 f>
 
 <f 240 standing
-   pic 100 state 3 wait 2 next 241 mp 200
+   pic 100 state 3 wait 2 next 241 mp 0
    sound mp3/018
    <bp x 45.32222222222222 y 37.42666666666666 bp>
    <w kind 1 x 47 y 51 weaponact 30 cover 1 w>

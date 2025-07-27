@@ -1176,7 +1176,7 @@ f>
 f>
 
 <f 235 DA_action
-   pic 132 state 15 wait 1 next 236 centerx 30 mp 75
+   pic 132 state 15 wait 1 next 236 centerx 30 mp 0
    <bp x 30.70889 y 38.96667 bp>
    <w kind 1 x 8.51379 y 43.63745 weaponact 22 w>
    <b kind 0 x 13 y 44 w 61 h 23 b>
