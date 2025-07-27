@@ -52,6 +52,7 @@ bmp>
 <f 0 standing
    pic 0 wait 4 next 1 centerx 46 hit_Fa 285 hit_Fj 273 hit_Uj 250 hit_Dj 260 hit_ja 295
    <bp x 48.464444444444446 y 38.35111111111111 bp>
+   <o kind 1 x 95 y 56 dvx 15 oid 229 facing 100 o>
    <w kind 1 x 51 y 54 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
@@ -59,6 +60,7 @@ f>
 <f 1 -
    pic 1 wait 4 next 2 centerx 47 hit_Fa 285 hit_Fj 273 hit_Uj 250 hit_Dj 260 hit_ja 295
    <bp x 49.464444444444446 y 38.12888888888889 bp>
+   <o kind 1 x 95 y 56 dvx 15 oid 229 facing 101 o>
    <w kind 1 x 52 y 54 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
@@ -1497,7 +1499,7 @@ f>
 
 <f 271 -
    pic 79 state 15 wait 1 next 999 centerx 46
-   <o kind 1 x 45 y 84 oid 5 facing 50 o>
+   <o kind 1 x 45 y 84 oid 5 facing 20 o>
    <bp x 48.26 y 38.19777777777778 bp>
    <w kind 1 x 51 y 54 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>

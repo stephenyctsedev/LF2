@@ -48,6 +48,7 @@ bmp>
 <f 0 standing
    pic 0 wait 5 next 1 hit_Fa 235 hit_Ua 70 hit_Da 260 hit_Fj 250 hit_Uj 275 hit_Dj 290
    <bp x 44.41722 y 39.50333 bp>
+   <o kind 1 x 95 y 56 dvx 15 oid 229 facing 100 o>
    <w kind 1 x 30.49389 y 61.71111 weaponact 23 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
@@ -55,6 +56,7 @@ f>
 <f 1 -
    pic 1 wait 2 next 2 hit_Fa 235 hit_Ua 70 hit_Da 260 hit_Fj 250
    <bp x 44.41722 y 39.35519 bp>
+   <o kind 1 x 95 y 56 dvx 15 oid 229 facing 101 o>
    <w kind 1 x 30.1605 y 61.43327 weaponact 23 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
