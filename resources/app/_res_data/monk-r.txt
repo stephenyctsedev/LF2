@@ -1136,7 +1136,7 @@ f>
 f>
 
 <f 243 -
-   pic 17 state 7 wait 3 next 244 mp 75
+   pic 17 state 7 wait 3 next 244 mp 0
    sound mp3/007
    <w kind 1 x 41 y 46 weaponact 30 cover 1 w>
    <b kind 0 x 25 y 11 w 40 h 73 b>

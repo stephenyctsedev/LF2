@@ -1251,7 +1251,7 @@ f>
 f>
 
 <f 250 heal_self
-   pic 140 state 15 wait 2 next 251 mp 350
+   pic 140 state 15 wait 2 next 251 mp 0
    sound mp3/050
    <bp x 44.4085 y 38.75177 bp>
    <w kind 1 x 22.23472 y 44.71593 weaponact 22 w>
@@ -1303,7 +1303,7 @@ f>
 f>
 
 <f 260 heal_other
-   pic 140 state 15 wait 2 next 261 mp 350
+   pic 140 state 15 wait 2 next 261 mp 0
    sound mp3/050
    <bp x 44.4085 y 38.75177 bp>
    <w kind 1 x 22.23472 y 44.71593 weaponact 22 w>
@@ -1483,7 +1483,7 @@ f>
 f>
 
 <f 300 biscuit
-   pic 154 state 15 wait 3 next 301 centerx 46 mp 250
+   pic 154 state 15 wait 3 next 301 centerx 46 mp 0
    <bp x 55.41931 y 39.19755 bp>
    <w kind 1 x 42 y 52 weaponact 30 cover 1 w>
    <b kind 0 x 22 y 21 w 39 h 64 b>

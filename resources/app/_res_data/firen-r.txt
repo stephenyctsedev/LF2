@@ -1188,7 +1188,7 @@ f>
 f>
 
 <f 235 ball1
-   pic 140 state 3 wait 1 next 236 centerx 49 mp 75
+   pic 140 state 3 wait 1 next 236 centerx 49 mp 0
    sound mp3/067
    <bp x 51.08816 y 39.24124 bp>
    <w kind 1 x 44 y 54 weaponact 30 cover 1 w>
@@ -1232,7 +1232,7 @@ f>
 f>
 
 <f 241 ball2
-   pic 146 state 3 wait 1 next 242 centerx 35 mp 75
+   pic 146 state 3 wait 1 next 242 centerx 35 mp 0
    sound mp3/067
    <bp x 42.11415 y 39.55347 bp>
    <w kind 1 x 29 y 50 weaponact 29 cover 1 w>
@@ -1276,7 +1276,7 @@ f>
 f>
 
 <f 247 ball3
-   pic 157 state 3 wait 1 next 248 centerx 35 mp 75
+   pic 157 state 3 wait 1 next 248 centerx 35 mp 0
    sound mp3/067
    <bp x 39.36707 y 39.80434 bp>
    <w kind 1 x 33 y 51 weaponact 30 cover 1 w>
@@ -1318,7 +1318,7 @@ f>
 f>
 
 <f 255 burn_run
-   pic 163 state 19 wait 2 next 256 centerx 37 mp 75
+   pic 163 state 19 wait 2 next 256 centerx 37 mp 0
    sound mp3/003
    <bp x 49.47706 y 41.4464 bp>
    <w kind 1 x 55 y 51 weaponact 35 w>
@@ -1334,7 +1334,7 @@ f>
 f>
 
 <f 257 -
-   pic 165 state 19 wait 2 next 261 dvx 10 centerx 37 hit_d 218 hit_j 218 mp -10
+   pic 165 state 19 wait 2 next 261 dvx 10 centerx 37 hit_d 218 hit_j 218 mp 0
    sound mp3/004
    <o kind 1 x 23 y 86 action 50 oid 211 facing 1 o>
    <bp x 48.14373 y 40.77974 bp>
@@ -1344,7 +1344,7 @@ f>
 f>
 
 <f 258 -
-   pic 160 state 19 wait 2 next 259 dvx 10 centerx 37 hit_d 218 hit_j 218 mp -10
+   pic 160 state 19 wait 2 next 259 dvx 10 centerx 37 hit_d 218 hit_j 218 mp 0
    sound mp3/003
    <o kind 1 x 23 y 86 action 50 oid 211 facing 1 o>
    <bp x 49.47706 y 41.4464 bp>
@@ -1354,7 +1354,7 @@ f>
 f>
 
 <f 259 -
-   pic 161 state 19 wait 2 next 260 dvx 10 centerx 42 hit_d 218 hit_j 218 mp -10
+   pic 161 state 19 wait 2 next 260 dvx 10 centerx 42 hit_d 218 hit_j 218 mp 0
    sound mp3/070
    <o kind 1 x 23 y 86 action 50 oid 211 facing 1 o>
    <bp x 52.3104 y 41.40141 bp>
@@ -1364,7 +1364,7 @@ f>
 f>
 
 <f 260 -
-   pic 162 state 19 wait 2 next 261 dvx 10 centerx 38 hit_d 218 hit_j 218 mp -10
+   pic 162 state 19 wait 2 next 261 dvx 10 centerx 38 hit_d 218 hit_j 218 mp 0
    sound mp3/004
    <o kind 1 x 23 y 86 action 50 oid 211 facing 1 o>
    <bp x 49.14373 y 40.77974 bp>
@@ -1374,7 +1374,7 @@ f>
 f>
 
 <f 261 -
-   pic 161 state 19 wait 2 next 258 dvx 10 centerx 42 hit_d 218 hit_j 218 mp -10
+   pic 161 state 19 wait 2 next 258 dvx 10 centerx 42 hit_d 218 hit_j 218 mp 0
    sound mp3/071
    <o kind 1 x 23 y 86 action 50 oid 211 facing 1 o>
    <bp x 52.3104 y 41.40141 bp>

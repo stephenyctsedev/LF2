@@ -952,113 +952,113 @@ f>
 f>
 
 <f 240 punch
-   pic 80 state 3 wait 4 next 241 mp 75
+   pic 80 state 3 wait 4 next 241 mp 0
    sound mp3/031
    <w kind 1 x 45 y 51 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 241 -
-   pic 81 state 3 wait 3 next 242 dvx 11 mp 75
+   pic 81 state 3 wait 3 next 242 dvx 11 mp 0
    <w kind 1 x 38 y 48 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 242 -
-   pic 82 state 3 wait 1 next 243 mp 75
+   pic 82 state 3 wait 1 next 243 mp 0
    <w kind 1 x 42 y 51 weaponact 30 cover 1 w>
    <i kind 0 x 14 y 42 w 65 h 20 dvx 9 dvy -10 fall 70 vrest 7 bdefend 16 injury 55 i>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 243 -
-   pic 83 state 3 next 244 mp 75
+   pic 83 state 3 next 244 mp 0
    <w kind 1 x 42 y 51 weaponact 30 cover 1 w>
    <i kind 0 x 36 y 21 w 52 h 40 dvx 9 dvy -10 fall 70 vrest 7 bdefend 16 injury 55 i>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 244 -
-   pic 84 state 3 wait 1 next 245 mp 75
+   pic 84 state 3 wait 1 next 245 mp 0
    <w kind 1 x 43 y 51 weaponact 30 cover 1 w>
    <i kind 0 x 12 y 27 w 34 h 30 dvx -5 fall 70 vrest 7 bdefend 16 injury 30 i>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 245 -
-   pic 85 state 3 wait 1 next 246 hit_a 260 hit_Da 260 mp 75
+   pic 85 state 3 wait 1 next 246 hit_a 260 hit_Da 260 mp 0
    <w kind 1 x 44 y 51 weaponact 30 cover 1 w>
    <i kind 0 x 14 y 34 w 25 h 24 dvx -5 fall 70 vrest 7 bdefend 16 injury 30 i>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 246 -
-   pic 86 state 3 wait 3 next 999 mp 75
+   pic 86 state 3 wait 3 next 999 mp 0
    <w kind 1 x 42 y 51 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 250 ball
-   pic 90 state 3 wait 3 next 251 mp 75
+   pic 90 state 3 wait 3 next 251 mp 0
    <w kind 1 x 43 y 51 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 251 -
-   pic 91 state 3 wait 3 next 252 centerx 30 mp 75
+   pic 91 state 3 wait 3 next 252 centerx 30 mp 0
    sound mp3/047
    <w kind 1 x 31 y 51 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 252 -
-   pic 92 state 3 wait 2 next 253 centerx 30 mp 75
+   pic 92 state 3 wait 2 next 253 centerx 30 mp 0
    <o kind 1 x 85 y 41 oid 226 o>
    <w kind 1 x 32 y 51 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 253 -
-   pic 91 state 3 wait 2 next 254 centerx 30 mp 75
+   pic 91 state 3 wait 2 next 254 centerx 30 mp 0
    <w kind 1 x 31 y 51 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 254 -
-   pic 90 state 3 wait 1 next 999 mp 75
+   pic 90 state 3 wait 1 next 999 mp 0
    <w kind 1 x 43 y 51 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 260 punch2
-   pic 93 state 3 wait 2 next 261 mp 75
+   pic 93 state 3 wait 2 next 261 mp 0
    sound mp3/031
    <w kind 1 x 44 y 51 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 261 -
-   pic 94 state 3 wait 2 next 262 dvx 11 mp 75
+   pic 94 state 3 wait 2 next 262 dvx 11 mp 0
    <w kind 1 x 42 y 51 weaponact 30 cover 1 w>
    <i kind 0 x 36 y 21 w 52 h 40 dvx 11 dvy -9 fall 70 vrest 7 bdefend 16 injury 30 i>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 262 -
-   pic 95 state 3 wait 2 next 263 mp 75
+   pic 95 state 3 wait 2 next 263 mp 0
    <w kind 1 x 43 y 51 weaponact 30 cover 1 w>
    <i kind 0 x 36 y 21 w 52 h 40 dvx 11 dvy -9 fall 70 vrest 7 bdefend 16 injury 30 i>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 263 -
-   pic 96 state 3 wait 2 next 264 mp 75
+   pic 96 state 3 wait 2 next 264 mp 0
    <w kind 1 x 42 y 51 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
 
 <f 264 -
-   pic 97 state 3 wait 3 next 999 mp 75
+   pic 97 state 3 wait 3 next 999 mp 0
    <w kind 1 x 41 y 51 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>

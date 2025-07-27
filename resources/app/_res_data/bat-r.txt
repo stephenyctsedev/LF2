@@ -1103,7 +1103,7 @@ f>
 f>
 
 <f 240 ball1
-   pic 100 state 3 wait 4 next 241 mp 125
+   pic 100 state 3 wait 4 next 241 mp 0
    <w kind 1 x 42 y 51 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
@@ -1213,7 +1213,7 @@ f>
 f>
 
 <f 260 bat
-   pic 103 state 3 wait 4 next 261 centerx 41 mp 200
+   pic 103 state 3 wait 4 next 261 centerx 41 mp 0
    <w kind 1 x 42 y 51 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
@@ -1248,7 +1248,7 @@ f>
 f>
 
 <f 270 punch
-   pic 77 state 7 wait 2 next 271 centerx 41 mp 50
+   pic 77 state 7 wait 2 next 271 centerx 41 mp 0
    <w kind 1 x 42 y 51 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>

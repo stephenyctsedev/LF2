@@ -1349,7 +1349,7 @@ f>
 f>
 
 <f 260 air_push
-   pic 100 state 9 wait 1 next 261 centerx 36 centery 82 mp 100
+   pic 100 state 9 wait 1 next 261 centerx 36 centery 82 mp 0
    sound mp3/097
    <bp x 44.46936 y 41.38736 bp>
    <w kind 1 x 38 y 53 weaponact 31 cover 1 w>
