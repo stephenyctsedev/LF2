@@ -1148,7 +1148,7 @@ f>
 
 <f 243 -
    pic 86 state 3 wait 1 next 244
-   <o kind 1 x 43 y 8 action 70 oid 221 facing 1 o>
+   <o kind 1 x 43 y 8 action 70 oid 221 facing 101 o>
    <w kind 1 x 49 y 55 weaponact 31 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
@@ -1156,7 +1156,7 @@ f>
 <f 244 -
    pic 87 state 3 wait 1 next 245
    sound mp3/020
-   <o kind 1 x 43 y -4 action 50 dvy -7 oid 221 o>
+   <o kind 1 x 43 y -4 action 50 dvy -7 oid 221 facing 101 o>
    <w kind 1 x 49 y 54 weaponact 31 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
 f>
@@ -1241,7 +1241,7 @@ f>
 <f 258 -
    pic 78 state 3 wait 20 next 259
    sound mp3/020
-   <o kind 1 x 45 y 85 action 80 oid 221 facing 1 o>
+   <o kind 1 x 45 y 85 action 80 oid 221 facing 201 o>
    <bp x 42.96751767160354 y 33.2291144943308 bp>
    <w kind 1 x 49 y 54 weaponact 31 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
@@ -1302,7 +1302,7 @@ f>
 <f 270 -
    pic 140 state 3 wait 3 next 271 centerx 50 hit_d 280 hit_j 280
    sound mp3/092
-   <o kind 1 x 138 y 47 oid 223 o>
+   <o kind 1 x 138 y 47 oid 223 facing 100 o>
    <bp x 59.73549957028566 y 41.5366607912315 bp>
    <w kind 1 x 54 y 54 weaponact 31 cover 1 w>
    <b kind 0 x 31 y 23 w 43 h 62 b>
@@ -1318,7 +1318,11 @@ f>
 
 <f 272 -
    pic 142 state 3 next 273 centerx 50 hit_d 280 hit_j 280 mp 0
+<<<<<<< Updated upstream
    <o kind 1 x 160 y 47 action 2 oid 223 o>
+=======
+   <o kind 1 x 160 y 47 action 2 oid 223 facing 100 o>
+>>>>>>> Stashed changes
    <bp x 59.73197084339685 y 41.637710308185646 bp>
    <w kind 1 x 54 y 54 weaponact 31 cover 1 w>
    <b kind 0 x 31 y 23 w 43 h 62 b>
