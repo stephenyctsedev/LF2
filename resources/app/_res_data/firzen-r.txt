@@ -1,5 +1,5 @@
 <bmp
-name Firzen
+name EX-Firzen
 head sys/firzen_f-r
 small sys/firzen_s_x3
 file(0-69) sys/firzen-r_0 w 90 h 90 row 10 col 7

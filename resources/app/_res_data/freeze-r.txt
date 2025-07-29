@@ -1,5 +1,5 @@
 <bmp
-name Freeze
+name EX-Freeze
 head sys/freeze_f-r
 small sys/freeze_s_x3
 file(0-69) sys/freeze-r_0 w 90 h 90 row 10 col 7

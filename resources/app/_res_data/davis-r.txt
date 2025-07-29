@@ -1,5 +1,5 @@
 <bmp
-name Davis
+name EX-Davis
 head sys/davis_f-r
 small sys/davis_s_x3
 file(0-69) sys/davis-r_0 w 90 h 90 row 10 col 7
@@ -1299,7 +1299,7 @@ f>
 
 <f 244 -
    pic 144 state 3 wait 1 next 246 centerx 35
-   <o kind 1 x 95 y 48 oid 207 o>
+   <o kind 1 x 95 y 48 oid 207 facing 100 o>
    <bp x 44.02988427763035 y 40.15214527204634 bp>
    <w kind 1 x 35 y 55 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
@@ -1343,7 +1343,7 @@ f>
 
 <f 250 -
    pic 149 state 3 wait 1 next 252 centerx 28
-   <o kind 1 x 95 y 45 action 60 oid 207 o>
+   <o kind 1 x 95 y 45 action 60 oid 207 facing 100 o>
    <bp x 34.6949 y 40.27171 bp>
    <w kind 1 x 27 y 55 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
@@ -1387,7 +1387,7 @@ f>
 
 <f 256 -
    pic 144 state 3 wait 1 next 258 centerx 35
-   <o kind 1 x 95 y 48 oid 207 o>
+   <o kind 1 x 95 y 48 oid 207 facing 100 o>
    <bp x 44.099036999999996 y 39.78298 bp>
    <w kind 1 x 36 y 55 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
@@ -1424,7 +1424,7 @@ f>
 
 <f 261 -
    pic 152 state 3 wait 1 next 263 centerx 31
-   <o kind 1 x 95 y 53 action 50 oid 207 o>
+   <o kind 1 x 95 y 53 action 50 oid 207 facing 100 o>
    <bp x 37.6949 y 40.27171 bp>
    <w kind 1 x 32 y 55 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 23 w 43 h 62 b>
@@ -1469,6 +1469,7 @@ f>
 <f 271 -
    pic 154 state 3 wait 1 next 272 dvx 5 centerx 38
    <bp x 50.90249806660612 y 40.520449932703144 bp>
+   <o kind 1 x 38 y 76 action 150 oid 212 facing 1 o>
    <w kind 1 x 38 y 52 weaponact 30 cover 1 w>
    <i kind 0 x 68 y 14 w 16 h 67 dvx 12 fall 70 vrest 7 bdefend 16 injury 45 effect 4 i>
    <i kind 0 x 22 y 40 w 61 h 13 dvx 7 fall 1 vrest 7 bdefend 16 injury 25 i>
@@ -1486,6 +1487,7 @@ f>
 <f 273 -
    pic 156 state 3 wait 1 next 274 dvx 3 centerx 37
    <bp x 39.953864734299515 y 40.11262077294686 bp>
+   <o kind 1 x 38 y 76 action 150 oid 212 facing 1 o>
    <w kind 1 x 35 y 50 weaponact 30 cover 1 w>
    <i kind 0 x 62 y 14 w 18 h 67 dvx 12 fall 70 vrest 7 bdefend 16 injury 45 effect 4 i>
    <i kind 0 x 19 y 40 w 58 h 18 dvx 7 fall 1 vrest 7 bdefend 16 injury 25 i>
@@ -1504,6 +1506,7 @@ f>
    pic 158 state 3 wait 1 next 276 dvx 5 centerx 29
    sound mp3/007
    <bp x 42.182780018577475 y 40.730060213190015 bp>
+   <o kind 1 x 38 y 76 action 150 oid 212 facing 1 o>
    <w kind 1 x 34 y 48 weaponact 30 cover 1 w>
    <i kind 0 x 54 y 14 w 18 h 64 dvx 12 fall 70 vrest 7 bdefend 16 injury 45 effect 4 i>
    <b kind 0 x 26 y 23 w 43 h 62 b>
@@ -1536,6 +1539,7 @@ f>
    pic 167 state 3 wait 1 next 280 dvx 7 centerx 31 hit_Ua 300
    sound mp3/007
    <bp x 54.50085 y 45.57994 bp>
+   <o kind 1 x 38 y 76 action 150 oid 212 facing 1 o>
    <w kind 1 x 38 y 45 weaponact 30 cover 1 w>
    <i kind 0 x 54 y 14 w 18 h 64 dvx 12 fall 70 vrest 7 bdefend 16 injury 45 effect 4 i>
    <b kind 0 x 26 y 23 w 43 h 62 b>
@@ -1575,6 +1579,9 @@ f>
 <f 291 -
    pic 161 state 15 wait 2 next 292 centerx 36 centery 80
    <bp x 41.768006613159436 y 30.60007541330955 bp>
+   <i kind 10 x -29 y -66 w 142 h 220 vrest 1 injury 1 zwidth 76 i>
+   <i kind 10 x -92 y -53 w 258 h 207 vrest 1 injury 1 zwidth 55 i>
+   <i kind 10 x -121 y -35 w 318 h 189 vrest 1 injury 1 zwidth 34 i>
    <w kind 1 x 41 y 45 weaponact 30 cover 1 w>
    <b kind 0 x 20 y 13 w 34 h 62 b>
 f>
@@ -1582,10 +1589,13 @@ f>
 <f 292 -
    pic 161 state 15 wait 15 next 999 centerx 42 hit_a 293
    <bp x 41.768006613159436 y 30.60007541330955 bp>
+   <i kind 10 x -29 y -66 w 142 h 220 vrest 1 injury 1 zwidth 76 i>
+   <i kind 10 x -92 y -53 w 258 h 207 vrest 1 injury 1 zwidth 55 i>
+   <i kind 10 x -121 y -35 w 318 h 189 vrest 1 injury 1 zwidth 34 i>
    <w kind 1 x 41 y 45 weaponact 30 cover 1 w>
    <b kind 0 x 26 y 13 w 34 h 66 b>
 f>
-
+#TODO - thinking
 <f 293 -
    pic 162 state 15 wait 3 next 294 centerx 31 centery 77
    sound mp3/007
@@ -1613,6 +1623,7 @@ f>
    pic 171 state 3 wait 1 next 302 centerx 33
    sound mp3/031
    <bp x 44.1924 y 33.50717 bp>
+   <o kind 1 x 45 y 106 action 40 oid 229 o>
    <w kind 1 x 42 y 44 weaponact 30 cover 1 w>
    <i kind 0 x 15 y 8 w 72 h 75 dvx 7 dvy -13 fall 70 vrest 10 bdefend 60 injury 85 i>
 f>

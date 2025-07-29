@@ -1,5 +1,5 @@
 <bmp
-name Rudolf
+name EX-Rudolf
 head sys/rudolf_f-r
 small sys/rudolf_s_x3
 file(0-69) sys/rudolf-r_0 w 90 h 90 row 10 col 7
