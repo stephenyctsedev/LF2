@@ -527,7 +527,7 @@ f>
 
 <f 76 run_attack
    pic 105 state 3 wait 2 next 77 centerx 20
-   <i kind 0 x 34 y 41 w 47 h 15 dvx 2 dvy -5 fall 10 arest 9 bdefend 60 injury 5 i>
+   <i kind 0 x 34 y 41 w 47 h 15 dvx 2 dvy -5 fall 40 arest 9 bdefend 60 injury 25 i>
    <b kind 0 x 17 y 16 w 36 h 67 b>
 f>
 

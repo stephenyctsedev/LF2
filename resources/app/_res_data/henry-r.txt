@@ -444,14 +444,14 @@ f>
 f>
 
 <f 60 punch
-   pic 10 state 3 wait 1 next 61 centerx 45 mp 12
+   pic 10 state 3 wait 1 next 61 centerx 45
    <bp x 46.63389 y 37.21944 bp>
    <i kind 2 x 26 y 62 w 37 h 24 vrest 1 i>
    <b kind 0 x 31 y 17 w 27 h 68 b>
 f>
 
 <f 61 -
-   pic 11 state 3 wait 1 next 62 centerx 36
+   pic 11 state 3 wait 1 next 62 centerx 36 mp -12
    <b kind 0 x 20 y 10 w 35 h 73 b>
 f>
 
@@ -480,7 +480,7 @@ f>
 f>
 
 <f 65 -
-   pic 10 state 3 wait 1 next 61 centerx 45 mp 12
+   pic 10 state 3 wait 1 next 61 centerx 45
    <bp x 46.63389 y 37.21944 bp>
    <i kind 2 x 38 y 65 w 38 h 19 vrest 1 i>
    <b kind 0 x 33 y 18 w 33 h 63 b>
@@ -521,13 +521,13 @@ f>
 f>
 
 <f 80 jump_attack
-   pic 8 state 3 wait 1 next 81 centerx 23 centery 83 mp 20
+   pic 8 state 3 wait 1 next 81 centerx 23 centery 83
    <bp x 48.47123 y 41.50662 bp>
    <b kind 0 x 24 y 15 w 39 h 57 b>
 f>
 
 <f 81 -
-   pic 9 state 3 wait 1 next 82 centerx 23 centery 83 mp 20
+   pic 9 state 3 wait 1 next 82 centerx 23 centery 83 mp -20
    <bp x 48.90652 y 41.80328 bp>
    <b kind 0 x 24 y 17 w 38 h 59 b>
 f>
