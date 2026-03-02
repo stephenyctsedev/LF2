@@ -48,6 +48,7 @@ limb_hand_weapon 292 326 294 326 447 234 450 254 247 312 259 169 404 261 396 306
 resized 3
 default_centerx 44
 default_centery 84
+cost 50
 bmp>
 <f 0 standing
    pic 0 wait 4 next 1 centerx 39

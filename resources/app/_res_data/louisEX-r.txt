@@ -2,6 +2,7 @@
 name LouisEX
 head sys/louisEX_f-r
 small sys/louisEX_s_x3
+small_x_shift 8
 file(0-69) sys/louisEX-r_0 w 90 h 90 row 10 col 7
 file(70-139) sys/louisEX-r_1 w 90 h 90 row 10 col 7
 file(140-209) sys/louisEX-r_2 w 90 h 90 row 10 col 7
@@ -48,6 +49,7 @@ limb_hand_weapon_120 242 326 244 326 420 260 424 258 238 345 221 170 360 247 399
 resized 3
 default_centerx 44
 default_centery 84
+cost 150
 bmp>
 <f 0 standing
    pic 0 wait 2 next 1 centerx 31 centery 82 hit_Fa 260 hit_Da 240

@@ -25,6 +25,7 @@ rowing_distance 5.000000
 resized 3
 default_centerx 44
 default_centery 84
+cost 50
 bmp>
 <f 0 standing
    pic 0 wait 3 next 1

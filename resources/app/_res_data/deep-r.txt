@@ -2,6 +2,7 @@
 name Deep
 head sys/deep_f-r
 small sys/deep_s_x3
+small_x_shift 4
 file(0-69) sys/deep-r_0 w 90 h 90 row 10 col 7
 file(70-139) sys/deep-r_1 w 90 h 90 row 10 col 7
 file(140-179) sys/deep-r_2 w 90 h 90 row 10 col 4
@@ -46,6 +47,7 @@ limb_hand_weapon 242 326 244 326 420 260 424 258 238 345 221 170 360 247 399 284
 resized 3
 default_centerx 44
 default_centery 84
+cost 100
 bmp>
 <f 0 standing
    pic 0 wait 4 next 1 centerx 39 hit_Fa 235 hit_Da 260 hit_Fj 290 hit_Uj 266
