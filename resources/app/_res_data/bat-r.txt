@@ -43,6 +43,7 @@ limb_hand_weapon 292 326 294 326 447 234 450 254 247 312 259 169 404 261 396 306
 resized 3
 default_centerx 44
 default_centery 84
+cost 100
 bmp>
 <f 0 standing
    pic 0 wait 5 next 1 hit_Fa 240 hit_Fj 270 hit_Uj 260
@@ -660,7 +661,7 @@ f>
 f>
 
 <f 121 -
-   pic 50 state 9 hit_Ua 300 hit_Da 274
+   pic 50 state 9 hit_Da 274 hit_Fj 274
    <bp x 49.278666666666666 y 38.84444444444445 bp>
    <c kind 1 x 69 y 41 vaction 130 aaction 122 taction -232 hurtable 1 decrease -7 c>
    <w kind 1 x 47 y 51 weaponact 30 cover 1 w>
