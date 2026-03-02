@@ -46,6 +46,7 @@ limb_hand_weapon 242 326 244 326 420 260 424 258 238 345 221 170 360 247 399 284
 resized 3
 default_centerx 44
 default_centery 84
+cost 100
 bmp>
 <f 0 standing
    pic 0 wait 4 next 1 centerx 39 hit_Fa 235 hit_Fj 270 hit_Uj 250 hit_ja 280
@@ -451,7 +452,7 @@ f>
 f>
 
 <f 61 -
-   pic 11 state 3 wait 1 next 62 centerx 36
+   pic 11 state 3 wait 1 next 62 centerx 36 mp -12
    <b kind 0 x 20 y 10 w 35 h 73 b>
 f>
 

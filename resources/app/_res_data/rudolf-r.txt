@@ -2,6 +2,7 @@
 name EX-Rudolf
 head sys/rudolf_f-r
 small sys/rudolf_s_x3
+small_x_shift -1
 file(0-69) sys/rudolf-r_0 w 90 h 90 row 10 col 7
 file(70-139) sys/rudolf-r_1 w 90 h 90 row 10 col 7
 file(140-149) sys/rudolf-r_2 w 168 h 99 row 5 col 2
@@ -48,6 +49,7 @@ limb_hand_weapon 242 326 244 326 420 260 424 258 238 345 221 170 360 247 399 284
 resized 3
 default_centerx 44
 default_centery 84
+cost 100
 bmp>
 <f 0 standing
    pic 0 wait 4 next 1 centerx 46 hit_Fa 285 hit_Fj 273 hit_Uj 250 hit_Dj 260 hit_ja 295
@@ -441,7 +443,7 @@ f>
 f>
 
 <f 61 -
-   pic 11 state 3 wait 2 next 62 centerx 47
+   pic 11 state 3 wait 2 next 62 centerx 47 mp -15
    sound mp3/007
    <bp x 51.18 y 38.59111111111111 bp>
    <b kind 0 x 33 y 19 w 29 h 63 b>
